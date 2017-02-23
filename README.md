@@ -9,7 +9,7 @@ Simply uberjar it or "lein run" and follow instructions.
 
 
 ## Examples
-
+```bash
 lein run
 Type a phrase for our simulation:
 Clojure is perfect.
@@ -36,7 +36,7 @@ Generation # 36
 Best in population:  Clojure is perfect.
 Current best fitness: 1
 Finished!
-
+```
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
